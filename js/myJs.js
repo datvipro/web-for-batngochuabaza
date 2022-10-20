@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Có bất ngờ phía sau nhé, Cậu có ny chưa nè :>",
   text5: "Có rồi nhé lêu lêu :>",
   text6: "Chưa có ny nựa :<",
-  text7: "Biết ngay là chưa có ny mà,lên ĐH r mà chưa có ny "QUÊ THÍA",(ghi cảm nghĩ bên dưới nè)😆😆😆 ",
+  text7: "Biết ngay là chưa có ny mà,lên ĐH r mà chưa có ny QUÊ THÍA,(ghi cảm nghĩ bên dưới nè)😆😆😆 ",
   text8: "Gửi cậu nè <3",
   text9: "Đọc xong zui lém 😆😆😆 ",
   text10: "Thôi không có ny cũng không sao hết",
