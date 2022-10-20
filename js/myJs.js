@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text2: "Tớ có điều này muốn nói với cậu 😁😁",
+  text3: "Tớ có điều này muốn hỏi cậu phải trả lời thật lòng nha._.",
+  text4: "Cậu có ny chưa nè, có bất ngờ phía sau nhé :>",
+  text5: "Có rồi nhé lêu lêu :>",
+  text6: "Chưa có ny nựa :<",
+  text7: "Biết ngay là chưa có ny mà, thấy tớ đoán ghê chưa 😆😆 ?",
+  text8: "Gửi cậu nè <3",
+  text9: "Vì cậu là hậu duệ conan hẻ 😆😆😆 ",
+  text10: "Thôi không có ny cũng không sao hết",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Nhân ngày phụ nữ Việt Nam ( tuy cậu chưa là phụ nữ), tớ chúc cậu ngày càng xênh đẹp, luôn cutee phô mai que, luôn vui vẻ, đạt đc nhiều thành công trên con đường đã chọn, và đặc biệt là sớm có ny nè 🥰🥰🥰",
+  text12: "Cảm ơn cậu nhìu nhìuuu 🥰🥰🥰",
 };
 
 $(document).ready(function () {
