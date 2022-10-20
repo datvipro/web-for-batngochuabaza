@@ -5,9 +5,9 @@ const textConfig = {
   text4: "Có bất ngờ phía sau nhé, Cậu có ny chưa nè :>",
   text5: "Có rồi nhé lêu lêu :>",
   text6: "Chưa có ny nựa :<",
-  text7: "Biết ngay là chưa có ny mà, thấy tớ đoán ghê chưa 😆😆 ?",
+  text7: "Biết ngay là chưa có ny mà,lên ĐH r mà chưa có ny "QUÊ THÍA",(ghi cảm nghĩ bên dưới nè)😆😆😆 ",
   text8: "Gửi cậu nè <3",
-  text9: "Vì cậu là hậu duệ conan hẻ 😆😆😆 ",
+  text9: "Đọc xong zui lém 😆😆😆 ",
   text10: "Thôi không có ny cũng không sao hết",
   text11:
     "Nhân ngày phụ nữ Việt Nam ( tuy cậu chưa là phụ nữ), tớ chúc cậu ngày càng xênh đẹp, luôn cutee phô mai que, luôn vui vẻ, đạt đc nhiều thành công trên con đường đã chọn, và đặc biệt là sớm có ny nè 🥰🥰🥰",
